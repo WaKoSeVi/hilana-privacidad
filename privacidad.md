@@ -4,7 +4,7 @@ title: Política de privacidad de Hilana
 
 # Política de privacidad de Hilana
 
-Última actualización: 28 de septiembre de 2026.
+Última actualización: 4 de octubre de 2026.
 
 ## Lo corto
 
@@ -72,5 +72,4 @@ actualizará con la fecha del cambio.
 
 ## Contacto
 
-
-Correo de contacto: pendiente.
+Para cualquier pregunta sobre esta política o sobre tus datos: [dgmstudio41003@gmail.com](mailto:dgmstudio41003@gmail.com).
